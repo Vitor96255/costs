@@ -4,34 +4,34 @@
       "name": "Projeto teste",
       "cost": 0,
       "services": [],
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": 2
+    },
+    {
+      "name": "Poney maldito ",
       "budget": "8000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "id": 2
-    },
-    {
-      "name": "Projeto teste",
-      "cost": 0,
-      "services": [],
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "id": 2
-    },
-    {
-      "name": "teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "Olá",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
