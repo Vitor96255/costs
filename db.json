@@ -2,9 +2,28 @@
   "projects": [
     {
       "name": "Projeto teste",
-      "cost": 0,
-      "services": [],
-      "budget": "5000",
+      "cost": 5500,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "4000",
+          "description": "Olá",
+          "id": "3f5a30cb-3ade-43ba-9e87-52f4cb74b0e4"
+        },
+        {
+          "name": "Teste",
+          "cost": "1000",
+          "description": "Olá",
+          "id": "f4f1be16-4f4a-4a18-98d5-a1a6a3c0dd7f"
+        },
+        {
+          "name": "Teste",
+          "cost": "500",
+          "description": "Olá",
+          "id": "94ee13c9-5a7a-4c30-a58f-fd91551008c1"
+        }
+      ],
+      "budget": "8000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,26 +31,22 @@
       "id": 2
     },
     {
-      "name": "Poney maldito ",
-      "budget": "8000",
+      "name": "Qual o aumentativo de dacuemba?",
+      "budget": "7000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 4000,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "4000",
+          "description": "Olá",
+          "id": "6355ae86-dcb1-42f2-9dda-6215fd2921d3"
+        }
+      ],
       "id": 3
-    },
-    {
-      "name": "Olá",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
     }
   ],
   "categories": [
